@@ -1,3 +1,9 @@
+# To generate this code, had to type the line below on the command line 
+#    in the same directory as the qt designer file (.ui):
+#
+#            =>   $ pyuic5 -x test2.ui -o GUIexample_qtDesigner_test2.py
+#
+# -----------------------------------------------------------------------------------
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'test2.ui'
